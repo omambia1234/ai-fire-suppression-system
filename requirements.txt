@@ -1,0 +1,8 @@
+opencv-python>=4.8
+numpy>=1.24
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+
+# Optional — only needed if you plug in a YOLO model via --model.
+# Uncomment when you're ready for Phase 1's YOLO hook:
+# ultralytics>=8.0
